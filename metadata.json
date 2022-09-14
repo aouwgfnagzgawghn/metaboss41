@@ -1,0 +1,40 @@
+{
+  "name": "Ukiyan #3196",
+  "symbol": "UKIYO",
+  "description": "This collection's Metaplex collection standard NFT does not have metadata URI. If you have the update authority, you can change the picture/description on this page by updating the collection standard NFT and filling in the right metadata URI.",
+  "seller_fee_basis_points": 1000,
+  "image": "https://img-cdn.magiceden.dev/rs:fill:640:640:0:0/plain/https://arweave.net/zQ5AzNOlD2UH1Z4NSWKupWtNMASlZDXHy-ZxttlSG9s",
+  "attributes": [
+    {
+      "trait_type": "Background",
+      "value": "Brown"
+    },
+    {
+      "trait_type": "Body",
+      "value": "Gold"
+    },
+    {
+      "trait_type": "Clothing",
+      "value": "Adventure hoodie"
+    },
+    {
+      "trait_type": "Head",
+      "value": "UKH-21"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "0.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "2dYeMCkrGHzLMW1rZBhbsY2EF7PS775YCttex7fhb3U1",
+        "share": 100
+      }
+    ]
+  }
+}
